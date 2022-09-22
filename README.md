@@ -27,6 +27,7 @@ redis 어디에 썼는지 엔티티 분류
 - @sys.currency.name '통화명'
 - @sys.currency.code '통화 코드'
 - @sys.unit.currency '통화'
+
 Redis를 사용하면 방대한 양의 데이터를 효과적으로 가져올 수 있고 장애 상황 시 복구에 사용할 수 있기 때문에,
 사전적으로 정리가 필요하고, 추가적으로 변경 가능성이 높은 엔티티 위주로 Redis를 사용
 
