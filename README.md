@@ -38,7 +38,7 @@ Redis를 사용하면 방대한 양의 데이터를 효과적으로 가져올 �
 ### Output 예시
 |항목|반환 내용|
 |:---:|:---:|
-|entity_name|내용|
+|*entity_name*|내용|
 |value|내용|
 |start_idx|내용|
 |end_idx|내용|
